@@ -10,7 +10,7 @@
 		$email = $_POST['email'];
 
 		$query = "";
-		//insert data into table 
+		//insert data into table    
 		if (!$result = mysqli_query($db, $query)) {
 	        exit(mysqli_error());
 	    }
