@@ -14,7 +14,7 @@ function addRecord() {
         // close the popup11
         $("#add_new_record_modal").modal("hide");
 
-        // read records again
+        // read records againqqq
         readRecords();
         // hhihihi2222 www
         // clear fields from the popup
