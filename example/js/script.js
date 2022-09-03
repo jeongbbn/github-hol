@@ -16,7 +16,7 @@ function addRecord() {
 
         // read records again
         readRecords();
-        // hhihihi
+        // hhihihi2222
         // clear fields from the popup
         $("#first_name").val("");
         $("#last_name").val("");
