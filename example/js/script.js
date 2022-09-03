@@ -11,7 +11,7 @@ function addRecord() {
         last_name: last_name,
         email: email
     }, function (data, status) {
-        // close the popup
+        // close the popup11
         $("#add_new_record_modal").modal("hide");
 
         // read records again
