@@ -13,10 +13,10 @@ function addRecord() {
     }, function (data, status) {
         // close the popup
         $("#add_new_record_modal").modal("hide");
-        // temp1212
+
         // read records again
         readRecords();
-        // hhihihi2222
+        // hhihihi2222 www
         // clear fields from the popup
         $("#first_name").val("");
         $("#last_name").val("");
