@@ -13,7 +13,7 @@ function addRecord() {
     }, function (data, status) {
         // close the popup
         $("#add_new_record_modal").modal("hide");
-
+        // temp
         // read records again
         readRecords();
         // hhihihi2222
